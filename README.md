@@ -19,7 +19,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="60" height="60" alt="Javascript" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="60" height="60" alt="React" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mohammad-mirzaiii/mohammad-mirzaiii/9eabea833a0b75265ca569294b05dda2f3189143/tailwindcss-plain.svg" width="60" height="60" alt="Tailwind-css" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/mohammad-mirzaiii/mohammad-mirzaiii/blob/main/download.png?raw=true" width="60" height="60" alt="Tailwind-css" /></a>
 </p>
 
 ----------
